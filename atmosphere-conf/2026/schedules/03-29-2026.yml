@@ -1,0 +1,109 @@
+date: '2026-03-29'
+performances:
+  Performance Theatre:
+    - title: "Opening Remarks"
+      time: 9:00 AM
+      endTime: 9:15 AM
+    - title: "How and Why News Orgs Should Build on ATProto"
+      time: 10:00 AM
+      endTime: 10:30 AM
+    - title: "Bringing Self Sovereign Identities to Masses"
+      time: 10:30 AM
+      endTime: 11:00 AM
+    - title: "Bluenotes: Community Notes for ATProto"
+      time: 11:00 AM
+      endTime: 11:30 AM
+    - title: "Community privacy in decentralized network"
+      time: 11:30 AM
+      endTime: 12:00 PM
+    - title: "Cooperate and Succeed!"
+      time: 1:30 PM
+      endTime: 2:00 PM
+    - title: "Building decentralized AI on atproto"
+      time: 2:00 PM
+      endTime: 2:30 PM
+    - title: "furryli.st: Scaling Community and Belonging"
+      time: 2:30 PM
+      endTime: 3:00 PM
+    - title: "From Toilets to Moths: Future of Social Media"
+      time: 3:00 PM
+      endTime: 3:30 PM
+    - title: "Lightning talks (BookHive, Abstracting AppView, GraphQL, Jacquard Magic Rust, Artist dreaming in Atmosphere)"
+      time: 4:00 PM
+      endTime: 5:00 PM
+    - title: "Closing Remarks"
+      time: 5:30 PM
+      endTime: 5:45 PM
+
+  Great Hall South:
+    - title: "Opening Remarks"
+      time: 9:00 AM
+      endTime: 9:15 AM
+    - title: "A better NPM site is possible"
+      time: 9:15 AM
+      endTime: 10:00 AM
+    - title: "tangled: The Lewis end"
+      time: 10:00 AM
+      endTime: 10:30 AM
+    - title: "One Year of Graze - lessons learned"
+      time: 10:30 AM
+      endTime: 11:00 AM
+    - title: "Waiting for the Future to Load"
+      time: 11:00 AM
+      endTime: 11:30 AM
+    - title: "Fireside Chat on Resonant Computing"
+      time: 11:30 AM
+      endTime: 12:00 PM
+    - title: "Social Components"
+      time: 1:30 PM
+      endTime: 2:00 PM
+    - title: "Designing for the social web"
+      time: 2:00 PM
+      endTime: 2:30 PM
+    - title: "Data Sovereignty for Games"
+      time: 2:30 PM
+      endTime: 3:00 PM
+    - title: "Protocol Governance & Hard Decentralization"
+      time: 3:00 PM
+      endTime: 3:30 PM
+    - title: "Lightning talks (E2EE DMs, Affordances, Bluesky product preview, Large-scale interoperability, Rewilding internet)"
+      time: 4:00 PM
+      endTime: 5:00 PM
+    - title: "Closing Remarks"
+      time: 5:30 PM
+      endTime: 5:45 PM
+
+  Room 2301:
+    - title: "Opening Remarks"
+      time: 9:00 AM
+      endTime: 9:15 AM
+    - title: "Making space for the Protoverse"
+      time: 10:00 AM
+      endTime: 10:30 AM
+    - title: "How to have more non-English speaking users"
+      time: 10:30 AM
+      endTime: 11:00 AM
+    - title: "Blousques: Translating Bluesky's UI"
+      time: 11:00 AM
+      endTime: 11:30 AM
+    - title: "Content Moderation Futures"
+      time: 11:30 AM
+      endTime: 12:00 PM
+    - title: "Creating a Safer Web: Blacksky's Tool"
+      time: 1:30 PM
+      endTime: 2:00 PM
+    - title: "Two Years of Skywatch: Community Moderation Lessons"
+      time: 2:00 PM
+      endTime: 2:30 PM
+    - title: "Coop: Open source Trust & Safety"
+      time: 2:30 PM
+      endTime: 3:00 PM
+    - title: "ATProto and Osprey: Automating Moderation"
+      time: 3:00 PM
+      endTime: 3:30 PM
+    - title: "Lightning talks (Keywords vs Embeddings, Scaling Atmosphere, Skylimit web client, AT Transparency Logs, W Social, DID:PLC War Games)"
+      time: 4:00 PM
+      endTime: 5:00 PM
+    - title: "Closing Remarks"
+      time: 5:30 PM
+      endTime: 5:45 PM

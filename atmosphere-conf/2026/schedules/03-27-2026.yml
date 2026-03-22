@@ -1,0 +1,36 @@
+date: '2026-03-27'
+performances:
+  Room 2301:
+    - title: "Consuming the ATmosphere"
+      time: 9:30 AM
+      endTime: 12:30 PM
+    - title: "Creating the ATmosphere"
+      time: 1:30 PM
+      endTime: 4:30 PM
+
+  Room 2311:
+    - title: "Founders & Funders"
+      time: 9:30 AM
+      endTime: 1:00 PM
+    - title: "Meet & Greet the Team from New_ Public"
+      time: 1:30 PM
+      endTime: 2:30 PM
+    - title: "at://advent, an atproto adventure"
+      time: 4:30 PM
+      endTime: 6:30 PM
+
+  Performance Theatre:
+    - title: "ATScience Morning"
+      time: 9:30 AM
+      endTime: 12:30 PM
+    - title: "ATScience Afternoon"
+      time: 1:30 PM
+      endTime: 4:30 PM
+
+  Bukhman Lounge:
+    - title: "ATScience Lounge"
+      time: 9:30 AM
+      endTime: 12:30 PM
+    - title: "ATScience Lounge"
+      time: 1:30 PM
+      endTime: 4:30 PM

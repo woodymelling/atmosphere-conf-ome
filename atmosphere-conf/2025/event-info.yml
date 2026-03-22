@@ -1,0 +1,12 @@
+name: ATmosphereConf 2025
+startDate: 2025-03-22
+endDate: 2025-03-23
+location: Seattle, WA
+timezone: America/Los_Angeles
+stages:
+  - name: Main Stage
+    color: 0x6B4FBB
+  - name: Stream.place Room
+    color: 0x2E7D9B
+  - name: Bluesky Room
+    color: 0x4A9B5F

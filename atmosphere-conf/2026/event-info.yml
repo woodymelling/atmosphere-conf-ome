@@ -1,0 +1,14 @@
+version: "0.1.0"
+address: "AMS Student Nest, 6133 University Blvd, Vancouver, BC"
+timeZone: "America/Vancouver"
+stages:
+  - name: "Performance Theatre"
+    color: 0x6B4FBB
+  - name: "Great Hall South"
+    color: 0x2E7D9B
+  - name: "Room 2301"
+    color: 0xC4622D
+  - name: "Room 2311"
+    color: 0xB5A020
+  - name: "Bukhman Lounge"
+    color: 0x8B6914
