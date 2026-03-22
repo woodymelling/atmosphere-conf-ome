@@ -1,87 +1,84 @@
-- stage: Main Stage
-  performances:
-    - artist: Erin Kissane
-      title: "People In Platforms: A Research Update"
-      startTime: 9:45 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=mMIhkA8QEKc
-    - artist: Rudy Fraser
-      title: "Beyond Horseless Carriages: Building Communities for the Decentralized Era"
-      startTime: 10:45 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=OZN8y8kVFFI
-    - artist: Devin Ivy
-      title: "The Shape of Apps to Come"
-      startTime: 11:30 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=bPvuRQW1Ykk
-    - artist: Marc Faddoul
-      title: "Free Our Feeds: Developing the AT infra, ecosystem and governance"
-      startTime: 12:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=boju4GqnCKk
-    - artist: Anuj Ahooja
-      title: "Bridges: The Last Network Effect"
-      startTime: 12:30 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=9QEddREEV7Q
-    - artist: Ændra Rininsland
-      title: "Supporting and growing ATProto development in 2025 and beyond"
-      startTime: 2:00 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=tw8uyjPlEKo
-    - artist: phil
-      title: "Scaling atproto down and back up again"
-      startTime: 2:45 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=D1UXpiipNTo
-    - artist: Christopher DiBona
-      title: "Introducing Roost: Robust Open Online Safety Tools"
-      startTime: 4:00 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=eDmhATCqqCc
-    - artist: Jessie Rushing
-      title: "Tales of Adding oAuth Login with Bsky to an OS Comments Tool"
-      startTime: 4:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=y3OSewYnupI
-    - artist: Drew McArthur
-      title: "PMsky: Enabling Peer Moderation on Bluesky"
-      startTime: 4:30 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=Aa9sZA_zFYk
-    - artist: Zeu Capua
-      title: "Message Gardening in the Atmosphere with Roomy Chat"
-      startTime: 4:45 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=Qp9jI6L2Tsg
-    - artist: Travis Vachon
-      title: "Bringing HOT HOT HOT Backups to Bluesky"
-      startTime: 5:00 PM
-      endTime: 5:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=O2nNFoIntg8
-
-- stage: Stream.place Room
-  performances:
-    - title: "Video on ATProto"
-      startTime: 11:30 AM
-    - title: "ATProto and ActivityPub: Frenemies or BFFs?"
-      startTime: 2:00 PM
-    - title: "Free our Feeds"
-      startTime: 3:00 PM
-    - title: "IndieSky & more"
-      startTime: 4:00 PM
-      endTime: 5:25 PM
-
-- stage: Bluesky Room
-  performances:
-    - title: "ATGeo"
-      startTime: 11:30 AM
-    - title: "Micropayments"
-      startTime: 2:00 PM
-    - title: "Building new services on ATProto"
-      startTime: 3:00 PM
-    - title: "Creating A Network of Tech Co-Ops"
-      startTime: 4:00 PM
-      endTime: 5:00 PM
+date: '2025-03-23'
+performances:
+  Main Stage:
+  - artist: Erin Kissane
+    title: "People In Platforms: A Research Update"
+    time: 9:45 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=mMIhkA8QEKc
+  - artist: Rudy Fraser
+    title: "Beyond Horseless Carriages: Building Communities for the Decentralized Era"
+    time: 10:45 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=OZN8y8kVFFI
+  - artist: Devin Ivy
+    title: "The Shape of Apps to Come"
+    time: 11:30 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=bPvuRQW1Ykk
+  - artist: Marc Faddoul
+    title: "Free Our Feeds: Developing the AT infra, ecosystem and governance"
+    time: 12:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=boju4GqnCKk
+  - artist: Anuj Ahooja
+    title: "Bridges: The Last Network Effect"
+    time: 12:30 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=9QEddREEV7Q
+  - artist: Ændra Rininsland
+    title: "Supporting and growing ATProto development in 2025 and beyond"
+    time: 2:00 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=tw8uyjPlEKo
+  - artist: phil
+    title: "Scaling atproto down and back up again"
+    time: 2:45 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=D1UXpiipNTo
+  - artist: Christopher DiBona
+    title: "Introducing Roost: Robust Open Online Safety Tools"
+    time: 4:00 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=eDmhATCqqCc
+  - artist: Jessie Rushing
+    title: "Tales of Adding oAuth Login with Bsky to an OS Comments Tool"
+    time: 4:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=y3OSewYnupI
+  - artist: Drew McArthur
+    title: "PMsky: Enabling Peer Moderation on Bluesky"
+    time: 4:30 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=Aa9sZA_zFYk
+  - artist: Zeu Capua
+    title: "Message Gardening in the Atmosphere with Roomy Chat"
+    time: 4:45 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=Qp9jI6L2Tsg
+  - artist: Travis Vachon
+    title: "Bringing HOT HOT HOT Backups to Bluesky"
+    time: 5:00 PM
+    endTime: 5:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=O2nNFoIntg8
+  Stream.place Room:
+  - title: "Video on ATProto"
+    time: 11:30 AM
+  - title: "ATProto and ActivityPub: Frenemies or BFFs?"
+    time: 2:00 PM
+  - title: "Free our Feeds"
+    time: 3:00 PM
+  - title: "IndieSky & more"
+    time: 4:00 PM
+    endTime: 5:25 PM
+  Bluesky Room:
+  - title: "ATGeo"
+    time: 11:30 AM
+  - title: "Micropayments"
+    time: 2:00 PM
+  - title: "Building new services on ATProto"
+    time: 3:00 PM
+  - title: "Creating A Network of Tech Co-Ops"
+    time: 4:00 PM
+    endTime: 5:00 PM

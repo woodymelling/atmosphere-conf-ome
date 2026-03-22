@@ -1,68 +1,69 @@
-- stage: Main Stage
-  performances:
-    - artist: Blaine Cook
-      title: "Network Punk: Welcome to the Jungle"
-      startTime: 9:45 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=d-H1nzWHLoI
-    - artist: Paul Frazee
-      title: "Where did we come from; where will we go"
-      startTime: 10:45 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=i0hz9uzHEbc
-    - artist: Nick Gerakines
-      title: "Smoke Signal: journey in building open ecosystems for communities"
-      startTime: 11:30 AM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=BnOtwX5Ogmw
-    - artist: Peter Wang
-      title: "Skyseed Fund"
-      startTime: 12:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=N4LUeQNSuaw
-    - artist: Jay Graber
-      title: "Jay Graber Remarks"
-      startTime: 12:30 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=dZ08qoNO0K4
-    - artist: Daniel Holmgren
-      title: "ATProto Ethos"
-      startTime: 2:00 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=1A-0k58TfPo
-    - artist: Ryan Barrett
-      title: "All the protocols, compared"
-      startTime: 2:45 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=fZcB8uQasuA
-    - artist: Samir Al-Battran
-      title: "Fedica's Bluesky analysis and discovery tools"
-      startTime: 3:00 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=CR7CemnHZyA
-    - artist: Dan Hon
-      title: "DO NOT REPLY TO THIS LIGHTNING TALK"
-      startTime: 3:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=8kUKEmWQ9UY
-    - artist: Michelle Lee
-      title: "Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights"
-      startTime: 4:00 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=6QrZJOO8wRQ
-    - artist: Cameron Pfiffer
-      title: "Comind: The cognitive layer for ATProto"
-      startTime: 4:15 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=nLtzdHeGnjA
-    - artist: Rashid Aziz
-      title: "Protocol composition: extending atproto for private data"
-      startTime: 4:30 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=o4W3oZPRSD8
-    - artist: Ms Boba
-      title: "Yearning for the Open Protocols"
-      startTime: 4:45 PM
-      endTime: 5:30 PM
-      performanceRecordings:
-        - url: https://www.youtube.com/watch?v=RbnRWKjYVn0
+date: '2025-03-22'
+performances:
+  Main Stage:
+  - artist: Blaine Cook
+    title: "Network Punk: Welcome to the Jungle"
+    time: 9:45 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=d-H1nzWHLoI
+  - artist: Paul Frazee
+    title: "Where did we come from; where will we go"
+    time: 10:45 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=i0hz9uzHEbc
+  - artist: Nick Gerakines
+    title: "Smoke Signal: journey in building open ecosystems for communities"
+    time: 11:30 AM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=BnOtwX5Ogmw
+  - artist: Peter Wang
+    title: "Skyseed Fund"
+    time: 12:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=N4LUeQNSuaw
+  - artist: Jay Graber
+    title: "Jay Graber Remarks"
+    time: 12:30 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=dZ08qoNO0K4
+  - artist: Daniel Holmgren
+    title: "ATProto Ethos"
+    time: 2:00 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=1A-0k58TfPo
+  - artist: Ryan Barrett
+    title: "All the protocols, compared"
+    time: 2:45 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=fZcB8uQasuA
+  - artist: Samir Al-Battran
+    title: "Fedica's Bluesky analysis and discovery tools"
+    time: 3:00 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=CR7CemnHZyA
+  - artist: Dan Hon
+    title: "DO NOT REPLY TO THIS LIGHTNING TALK"
+    time: 3:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=8kUKEmWQ9UY
+  - artist: Michelle Lee
+    title: "Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights"
+    time: 4:00 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=6QrZJOO8wRQ
+  - artist: Cameron Pfiffer
+    title: "Comind: The cognitive layer for ATProto"
+    time: 4:15 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=nLtzdHeGnjA
+  - artist: Rashid Aziz
+    title: "Protocol composition: extending atproto for private data"
+    time: 4:30 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=o4W3oZPRSD8
+  - artist: Ms Boba
+    title: "Yearning for the Open Protocols"
+    time: 4:45 PM
+    endTime: 5:30 PM
+    performanceRecordings:
+      - url: https://www.youtube.com/watch?v=RbnRWKjYVn0
