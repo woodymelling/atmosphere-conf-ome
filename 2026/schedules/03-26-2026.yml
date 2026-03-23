@@ -9,10 +9,22 @@ performances:
       artist: chadtmiller.com
       time: 2:00 PM
       endTime: 4:00 PM
+      description: >-
+        Chad Miller explores AppViews—their fundamentals, operational mechanisms, and implementation
+        approaches. The workshop examines how tools like quickslice simplify complexity, allowing
+        developers to concentrate on Lexicons and user experience. Additional tools covered include
+        Tap, AIP, and Constellation, spanning approaches from getting started all the way to production.
     - title: "Verified Human Users, game changer in the atmosphere"
       artist: jan.wsocial.eu
       time: 4:00 PM
       endTime: 5:00 PM
+      description: >-
+        Jan Lindblad addresses the proliferation of automated accounts across social platforms,
+        arguing that bots have compromised authentic social interaction. He proposes W Social's
+        solution: verified human identity through passport verification using a privacy-preserving
+        architecture with a "user information firewall." This dual-layer system creates asymmetric
+        access—one component knows user identities but is blind to account assignments, while the
+        other understands the full social graph without revealing personal identity details.
 
   Room 2311:
     - title: "Unconf Classroom"
@@ -31,10 +43,22 @@ performances:
       artists: [offline.arushibandi.com, ivansigal.bsky.social, christian.bsky.social]
       time: 2:00 PM
       endTime: 4:00 PM
+      description: >-
+        This cross-disciplinary workshop explores new social modalities that can be built with the
+        affordances of ATProtocol. Participants will collaborate to envision innovative possibilities
+        for communal engagement on the protocol, emphasizing conceptual design rather than technical
+        implementation. The session aims to expand attendees' understanding of what it looks like to
+        be online through ideation and co-design activities.
     - title: "Dive into user research with ATProto builders/users"
       artists: [tessa.germnetwork.com, tynanpurdy.com]
       time: 4:30 PM
       endTime: 6:30 PM
+      description: >-
+        This workshop invites ecosystem participants to conduct research on their own initiatives
+        while observing emerging products. The organizers note that recent talks about onboarding in
+        the Atmosphere have drawn calls for more user research. Rather than positioning themselves as
+        authorities, the facilitators describe themselves as fellow builders making space for the
+        community to learn from each other.
 
   Bukhman Lounge:
     - title: "Unconf Discussions"

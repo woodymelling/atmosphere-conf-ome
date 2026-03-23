@@ -5,23 +5,44 @@ performances:
       artist: alex.bsky.team
       time: 9:30 AM
       endTime: 12:30 PM
+      description: >-
+        An introductory workshop designed for developers with JavaScript/TypeScript experience but
+        minimal AT Protocol background. The session covers how to read posts and other data from
+        the Atmosphere.
     - title: "Creating the ATmosphere"
       artist: alex.bsky.team
       time: 1:30 PM
       endTime: 4:30 PM
+      description: >-
+        This intermediate workshop focuses on designing AT Lexicons to support new apps, with an
+        emphasis on reusing the social graph data that already exists in the network.
 
   Room 2311:
     - title: "Founders & Funders"
       time: 9:30 AM
       endTime: 1:00 PM
+      description: >-
+        A special invite-only event for atproto teams building products, services, and companies
+        that they intend to fund through investment, grants, or other mechanisms. Interested parties
+        are asked to apply for attendance.
     - title: "Meet & Greet the Team from New_ Public"
       artist: newpublic.org
       time: 1:30 PM
       endTime: 2:30 PM
+      description: >-
+        New_ Public, a non-profit product studio focused on reimagining community and online
+        conversation, is hosting a meet-and-greet workshop. Attendees can connect with team members
+        to learn about their initiatives, including Roundabout (their new local community app built
+        on ATProtocol), and details about the inaugural Open Social Awards.
     - title: "at://advent, an atproto adventure"
       artists: [bad-example.com, baileytownsend.dev]
       time: 4:30 PM
       endTime: 6:30 PM
+      description: >-
+        This workshop introduces participants to atproto through interactive protocol challenges.
+        Attendees will play-test the initial set of challenges with guidance in a preview of the
+        upcoming public online release. The session aims to expand the developer community by making
+        atproto enticing and accessible to beginner and non-devs.
 
   Performance Theatre:
     - title: "ATScience Morning"

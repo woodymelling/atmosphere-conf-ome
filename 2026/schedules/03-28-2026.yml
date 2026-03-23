@@ -8,34 +8,88 @@ performances:
       artist: bankonjustin.bsky.social
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        The presentation explores how journalists can drive a protocol-based publishing revolution
+        through federated approaches. Bank argues that content creators and independent journalists
+        already operate in decentralized ways—like streamers building media ventures across multiple
+        platforms or journalists leveraging newsletters to monetize audiences—without necessarily
+        using federated terminology. The talk examines how technologists and creators can collaborate
+        to channel this existing momentum toward organized, federated models and bring audiences into
+        the ATmosphere ecosystem.
     - title: "Building the Sovereign Media Stack"
       artist: eclecticcapital.bsky.com
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        Examines structural transformations in media and the creator economy, offering strategic
+        guidance for how the AT Protocol community can support independent creators while enabling
+        them to maintain ownership and sovereignty. Integrates perspectives on cultural, economic,
+        and technical infrastructure considerations.
     - title: "Creators First: Video & Media Foundation"
       artist: joebasser.com
       time: 11:00 AM
       endTime: 11:30 AM
+      description: >-
+        This panel examines creators building on AT Protocol and the tools enabling them to retain
+        ownership of their audiences and earnings. The discussion explores how video, music, reviews,
+        and other media formats can function across different applications, allowing artists to
+        connect with audiences broadly without platform lock-in. Panelists will discuss emerging
+        monetization approaches, including direct patron funding and gated premium offerings,
+        demonstrating ATProto's potential as a platform for the next generation of creative
+        professionals.
     - title: "Publishing Without Platforms"
       artist: jimray.bsky.team
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        This session explores independent publishing on AT Protocol for journalists, newsletter
+        writers, and media technologists. The speaker explains that AT Protocol gives creators both
+        content control and audience relationships without surrendering control to a platform,
+        allowing creators to manage their content, audience relationships, and distribution strategy
+        independently.
     - title: "Advocating for Digital Sovereignty"
       artist: sandrabarthel.bsky.social
       time: 1:30 PM
       endTime: 2:00 PM
+      description: >-
+        The presentation explores how digital sovereignty has become increasingly important in
+        Canada and Europe, examining communication strategies advocacy groups use to shape public
+        discourse, build alliances, and engage with policymakers and the media. Barthel, founder of
+        the Alliance of Open Networks and Democratic Public Spheres, draws on her participation in
+        the EU Summit on Digital Sovereignty to discuss European perspectives on controlling digital
+        infrastructure and public discourse. The talk covers how digital rights organizations in
+        Europe advocate for open protocols, decentralized networks, and democratic governance, while
+        identifying opportunities for cross-border collaboration and knowledge exchange.
     - title: "Open social tech and geopolitical risk"
       artist: ivansigal.bsky.social
       time: 2:00 PM
       endTime: 2:30 PM
+      description: >-
+        The talk examines how the AT Protocol's decentralized design, intended as an alternative to
+        corporate platforms, now faces potential risks from state actors. Sigal explores a brief
+        history of networked authoritarianism and discusses strategies for protecting the protocol
+        in hostile political contexts.
     - title: "A Free Press needs Free Protocols"
       artists: [joe.germuska.com, werd.io]
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        The presenters examine how proprietary social platforms control the two main things
+        journalism needs to survive: attention and revenue. Drawing on their newsroom technology
+        experience, they discuss how protocol-based approaches rather than platform-dependent ones
+        could empower both publishers and audiences. The talk explores practical implementations
+        in this media model.
     - title: "Journalism must create its own algorithms"
       artist: aendra.com
       time: 3:00 PM
       endTime: 3:30 PM
+      description: >-
+        Rininsland explores how corporate social media platforms manipulate algorithmic visibility,
+        including amplifying far-right content, restricting links, and undermining news organizations
+        through AI summaries. She argues that the media industry should develop its own algorithms
+        on ATProto, presenting this not merely as feasible but as profoundly necessary for the
+        future of quality journalism. As creator of the News and Trending News feeds, she discusses
+        why this shift represents a critical opportunity for journalism's future.
     - title: "Lightning talks (Oaklog, Burning down data walls, Pollen)"
       artists: [pop.pe, stephanjnoel.bsky.social, hypha.coop]
       time: 4:00 PM
@@ -43,10 +97,23 @@ performances:
       artist: sebastian.eurosky.social
       time: 4:30 PM
       endTime: 5:00 PM
+      description: >-
+        Eurosky, a European initiative, operates shared ATProto infrastructure under EU law
+        including PDS, relays, AppView capacity, and moderation services. Examines why social
+        networks warrant treatment as critical infrastructure, explores how self-certifying data
+        enables genuine institutional separation of powers, and discusses a collaborative
+        cost-sharing approach to moderation.
     - title: "Hypercerts on ATProto: Collective Funding"
       artist: holke.xyz
       time: 5:00 PM
       endTime: 5:30 PM
+      description: >-
+        This presentation examines hypercerts as a mechanism for pooled funding efforts. The talk
+        demonstrates how activities, evidence, and plural evaluations can be published as durable
+        records without relying on centralized platforms or single metrics. It explains how
+        ATProto's architecture around identity, records, and graphs supports novel funding
+        allocation approaches where data creation happens within the system and can be leveraged
+        across different applications.
     - title: "Closing Remarks"
       time: 5:30 PM
       endTime: 5:45 PM
@@ -63,30 +130,72 @@ performances:
       artist: rude1.blacksky.team
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        The presenter shares insights gained from discussing Blacksky and AT Protocol across college
+        campuses, conferences, and webinars. They plan to discuss how they particularly plan to
+        incorporate those learnings from both a product and operations standpoint to help others
+        develop better community-focused products.
     - title: "Who owns the group chat?"
       artist: brittanyellich.com
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        Examines how decentralized protocols differ from traditional social platforms in managing
+        community spaces. Rather than platforms controlling groups and member data, ATProto makes
+        ownership, governance, and moderation become explicit design decisions. Draws on practical
+        experience implementing community features, exploring technical challenges like data
+        synchronization and various governance approaches.
     - title: "Who talks to whom? Coordination gaps"
       artist: laurenshof.online
       time: 11:00 AM
       endTime: 11:30 AM
+      description: >-
+        The presentation examines coordination challenges across ATProto's layered components
+        including relays, labelers, AppViews, and PDSes. Key questions addressed include account
+        ban notification protocols between PDS providers and conflict resolution when AppViews make
+        differing moderation choices. The speaker analyzes practical coordination issues at each
+        stack layer, references comparable fediverse scenarios, and recommends where the ecosystem
+        should establish shared norms and documentation.
     - title: "Beyond Bluesky: Community infrastructure"
       artist: bad-example.com
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        The presentation examines how Bluesky and Microcom provide different approaches to ATProto
+        infrastructure. The speaker explores AT-protocol-specific economics of operating and scaling
+        public infrastructure and considers pathways toward a more sustainable and varied
+        infrastructure ecosystem. The discussion draws from practical experience managing large-scale
+        systems including indexes, caches, relays, jetstreams, and PLC mirrors.
     - title: "2026 Atmosphere Report"
       artist: pfrazee.com
       time: 1:30 PM
       endTime: 2:30 PM
+      description: >-
+        Paul Frazee, CTO of Bluesky, discusses developments in the Atmosphere ecosystem including
+        new standards efforts, new protocol features, new developer tools and APIs, and explains
+        why 2026 represents a significant year for the decentralized social network's technical
+        advancement.
     - title: "From protocol to product: How Expo powers ATProto"
       artists: [eliot.sh, pfrazee.com, iame.li, reedharmeyer.bsky.social]
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        This panel discussion features developers who have built AT Proto applications using Expo.
+        The speakers address the complete development lifecycle, including authentication and OAuth,
+        working with decentralized identity, deploying to app stores, and scaling to real users.
+        The session is designed for both newcomers exploring AT Proto and experienced developers
+        ready to launch projects.
     - title: "Consent Before Cryptography"
       artist: tessa.germnetwork.com
       time: 3:00 PM
       endTime: 3:30 PM
+      description: >-
+        Germ Network co-founder Tessa Brown examines the importance of consent within discussions
+        about privacy, agency, and self-determination. The presentation covers how Germ is
+        engineered to prioritize consenting connections and discusses the team's experience
+        integrating atproto handles into their encrypted messaging platform. Brown also addresses
+        UX design considerations Germ implemented to help users comprehend what they're agreeing to
+        when incorporating their atproto identities into the ecosystem.
     - title: "Lightning talks (State of Multi-Protocol, Semble, What 350K users taught me, Phoenix Architecture, This Title Left Blank)"
       artists: [quillmatiq.com, ronentk.me, buildwithtori.com, chadfowler.com, blaine.bsky.social]
       time: 4:00 PM
@@ -103,26 +212,63 @@ performances:
       artist: mosh.bsky.social
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        The talk explores how the ATProto community can evolve its creations into mature offerings.
+        Lee presents a practical framework for understanding whether what you're building should be
+        a feature, product, or business, along with funding strategies suitable for each category
+        to sustain ongoing development and expansion.
     - title: "Did Lexicon solve enterprise data problem?"
       artist: emily.gorcen.ski
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        Explores how ATProto's Lexicon data definition language addresses a fundamental challenge
+        in Data Mesh architecture. Examines how decentralized, domain-oriented data products have
+        historically struggled due to centralized tooling assumptions. Argues that Lexicon's
+        approach to balancing the nouns and verbs of data modeling offers a compelling path toward
+        implementing decentrally-managed data systems.
     - title: "Understanding Custom Feeds on Bluesky"
       artist: leijiew.bsky.social
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        The presentation examines how Bluesky's custom feeds function as a decentralized curation
+        system. Research involved interviewing 26 feed creators and developers while analyzing
+        nearly 98,000 existing feeds. Key findings reveal that volunteer effort sustains this
+        ecosystem, though creators encounter persistent obstacles regarding upkeep, discoverability,
+        and sustainability. The work concludes with design recommendations for building more
+        functional decentralized platforms.
     - title: "Building Cirrus: single-user, serverless PDS"
       artist: mk.gg
       time: 1:30 PM
       endTime: 2:00 PM
+      description: >-
+        The reference PDS implementation serves large-scale deployments, but Cirrus offers an
+        alternative built on Cloudflare Workers that scales to zero and costs pennies to run.
+        Addresses serverless architecture challenges within the AT Protocol ecosystem, specifically
+        covering WebSocket hibernation via Durable Objects for maintaining firehose connections and
+        repository integrity through embedded SQLite.
     - title: "Rethinking the Client: User Choice & Growth"
       artist: tylerjfisher.com
       time: 2:00 PM
       endTime: 2:30 PM
+      description: >-
+        Fisher discusses how the developer community can expand the ATProto user base by creating
+        client experiences that outperform Web 2.0 platforms. Drawing on his work with Sill and a
+        sports-focused client project, he examines the obstacles and possibilities in building
+        compelling clients that convince users to transition away from established social networks.
+        The presentation covers methodologies for developing new clients using current lexicons and
+        identifies prospects for collaborative infrastructure development.
     - title: "Building Future of AI on ATProto"
       artist: cameron.stream
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        The speaker argues that the future of AI is collective intelligence, not a single
+        superintelligent model. He contends that AT Protocol's features—including portable identity,
+        public reputation, and federated coordination—make it ideally positioned to support
+        distributed AI systems. Based on practical experience with social AI implementations, the
+        presentation explores expected developments in this space.
     - title: "Account logic using Trusted Execution"
       artist: kobi.bsky.social
       time: 3:00 PM

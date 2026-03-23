@@ -8,34 +8,80 @@ performances:
       artist: tylerjfisher.com
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        This panel explores how news organizations can leverage the ATProtocol to gain independence
+        from proprietary social platforms. The speakers examine strategies for newsrooms to
+        participate as equal stakeholders in an open social web, rather than remaining dependent on
+        platforms where they lack control over content distribution, emphasizing the advantages of
+        adopting ATProto early as a path toward autonomy and direct audience engagement.
     - title: "Bringing Self Sovereign Identities to Masses"
       artist: cypherhippie.bsky.social
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        Argues that DID:PLC forks will inevitably emerge as the ATproto ecosystem scales globally,
+        and that governance pressures around identity suspension decisions cannot remain contained
+        within a permissioned consortium model. Proposes extending Bluesky's adversarial design
+        principle to identity governance. Explores whether permissionless observatory networks and
+        alternatives to cryptoeconomic solutions could address these challenges.
     - title: "Bluenotes: Community Notes for ATProto"
       artist: jonathanwarden.com
       time: 11:00 AM
       endTime: 11:30 AM
+      description: >-
+        The presenter will demonstrate Bluenotes, a modified version of Bluesky featuring community
+        notes functionality. The talk explores a potential Open Community Notes standard and lexicon
+        designed for ATProto, while addressing key implementation challenges including preserving
+        contributor anonymity and defending against manipulation.
     - title: "Community privacy in decentralized network"
       artist: chipnick.com
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        Explores building an ATproto community with content boundaries that maintain privacy without
+        requiring users to leave the protocol. Rather than focusing on access control mechanisms,
+        uses an appview design allowing any client to see it, enabling flexible privacy
+        implementation at the application layer.
     - title: "Cooperate and Succeed!"
       artist: gov.glados.computer
       time: 1:30 PM
       endTime: 2:00 PM
+      description: >-
+        This presentation explores how products can collaborate rather than compete by sharing
+        features across applications using lexicons on the protocol. The speaker discusses a product
+        currently in development that demonstrates bidirectional integration with other
+        protocol-based applications, with potential future implementations including collaborative
+        UI components.
     - title: "Building decentralized AI on atproto"
       artist: maxine.science
       time: 2:00 PM
       endTime: 2:30 PM
+      description: >-
+        Discusses how Forecast Bio is leveraging atproto to develop two key capabilities:
+        distributed, structured, streamable AI training data infrastructure, and a comprehensive
+        record of model weights and evaluations across different training approaches. Emphasizes how
+        open infrastructure built on atproto can help restore advanced AI development capabilities
+        to the broader community.
     - title: "furryli.st: Scaling Community and Belonging"
       artist: baldemo.to
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        Examines how to create online communities that foster genuine connection rather than
+        algorithmic outrage. Uses furryli.st as an example to discuss the Curated Cluster model —
+        communities built on shared values, human curation, and the protection of marginalized
+        voices. Explores balancing the safety and intimacy of closed communities with the openness
+        and accessibility of decentralized networks.
     - title: "From Toilets to Moths: Future of Social Media"
       artist: dame.is
       time: 3:00 PM
       endTime: 3:30 PM
+      description: >-
+        Over a 12-month period, Dame developed multiple AT Protocol-based projects and applications,
+        from a decentralized toilet to a moth-themed client interface. These ventures attracted
+        approximately 100,000 unique visitors and surpassed 500,000 page views combined. The
+        presentation explores the lessons learned and implications for social media's future
+        direction.
     - title: "Lightning talks (BookHive, Abstracting AppView, GraphQL, Jacquard Magic Rust, Artist dreaming in Atmosphere)"
       artists: [nickthesick.com, chadtmiller.com, timryan.org, nonbinary.computer, hilk.eu]
       time: 4:00 PM
@@ -56,34 +102,80 @@ performances:
       artist: lewis.moe
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        Lewis explores the distinctive challenges of establishing a business around an open
+        protocol. He discusses the rationale behind incorporating Tangled as a company, their
+        funding approach, why they selected this path, obstacles encountered, and their vision
+        moving forward.
     - title: "One Year of Graze - lessons learned"
       artist: devingaffney.com
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        Discusses Graze's development trajectory and its theory of action for how the AT Protocol
+        disrupts the existing social layer of the web. Covers fundraising experiences and lessons,
+        alongside insights into development directions for 2026 and moving past the early
+        skeuomorph phase of ATProto development.
     - title: "Waiting for the Future to Load"
       artist: case.bsky.social
       time: 11:00 AM
       endTime: 11:30 AM
+      description: >-
+        Amber Case explores how conventional wisdom about technological progress—shaped by
+        self-driving car narratives and 1950s futurism—fails to capture what's actually emerging.
+        She argues that genuine innovation happens in the cracks, almost imperceptible, often
+        contradicting long-standing assumptions. The presentation questions what it will take for
+        society to move beyond the paradigms that have dominated the 2010s.
     - title: "Fireside Chat on Resonant Computing"
       artists: [komorama.bsky.social, masnick.com]
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        The two Resonant Computing manifesto co-authors discuss why they felt compelled to
+        articulate an alternative vision for computing—one that's private, plural, and prosocial.
+        They examine practical applications of resonance, explain the ATProto community's
+        distinctive advantages in realizing this vision, and address the foundational infrastructure
+        needed to bring it to life.
     - title: "Social Components"
       artist: danabra.mov
       time: 1:30 PM
       endTime: 2:00 PM
+      description: >-
+        Dan explores the concept of remixable social products through component-based architecture.
+        The talk presents Inlay, an experimental browser enabling cross-product server-driven user
+        interfaces on the Atmosphere. Social products could be deconstructed into UI pieces and
+        recombined in novel ways across different creators and hosts. By leveraging lexicons,
+        records, and shared data structures, this approach enables composable experiences described
+        as React for atproto or HyperCard for social. The presentation questions whether
+        component-based social protocols represent an experimental misstep or a preview of a
+        post-app era.
     - title: "Designing for the social web"
       artist: darrin.bsky.team
       time: 2:00 PM
       endTime: 2:30 PM
+      description: >-
+        A panel discussion featuring prominent designers and builders from the community focused on
+        design topics. The organizer indicated interest in including additional designers and remains
+        flexible about the session format to best serve the audience.
     - title: "Data Sovereignty for Games"
       artist: trezy.codes
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        Covers The Pentaract, a lexicon and management platform enabling game developers to maintain
+        control over their data on ATProto. Addresses how developers currently publish data across
+        dozens of platforms they don't control, leaving them vulnerable to sudden policy or payment
+        processor changes. Leverages ATProto's distributed infrastructure to eliminate platform
+        lock-in while enabling player-owned achievements, saves, and decentralized modding systems.
     - title: "Protocol Governance & Hard Decentralization"
       artist: dholms.at
       time: 3:00 PM
       endTime: 3:30 PM
+      description: >-
+        Discusses steps being taken to achieve hard decentralization, including establishing an
+        IETF working group for protocol standardization, independent governance for PLC, and
+        technical implementations enabling true decentralization such as expanded PDSes, account
+        portability across networks, and comprehensive network synchronization.
     - title: "Lightning talks (E2EE DMs, Affordances, Bluesky product preview, Large-scale interoperability, Rewilding internet)"
       artists: [rangakrishnan1.bsky.social, tynanpurdy.com, timburks.me, knotbin.com, offline.arushibandi.com]
       time: 4:00 PM
@@ -100,34 +192,80 @@ performances:
       artist: meri.garden
       time: 10:00 AM
       endTime: 10:30 AM
+      description: >-
+        Roomy is a group messaging application offering online communities tools for autonomous
+        collaboration. The platform provides designable spaces not just for chat, but for
+        cultivating a web of shared understanding together. The talk explores how decentralized,
+        user-controlled, interoperable data built on ATProto can help online communities channel
+        impassioned mobilizing into sustained organizing.
     - title: "How to have more non-English speaking users"
       artist: vicwalker.dev.br
       time: 10:30 AM
       endTime: 11:00 AM
+      description: >-
+        This panel explores common mistakes that hinder app adoption among non-English speakers
+        globally, covering practical tips and guidelines to help new applications avoid these
+        pitfalls, featuring real examples from the Atmosphere community. Both English and
+        non-English speakers are encouraged to participate.
     - title: "Blousques: Translating Bluesky's UI"
       artist: signez.fr
       time: 11:00 AM
       endTime: 11:30 AM
+      description: >-
+        Explores the complexities of localizing Bluesky's interface into French. Beyond basic
+        translation work, it addresses nuanced challenges including gender-neutral language choices,
+        translating protocol-embedded terms, and contributing externally to unreleased features.
+        Also examines how translation efforts reveal gaps in the platform's experience for
+        non-English speakers.
     - title: "Content Moderation Futures"
       artist: linguangst.bsky.social
       time: 11:30 AM
       endTime: 12:00 PM
+      description: >-
+        Examines how social media platforms govern content at scale. While successful content
+        moderation is principled, consistent, contextual, proactive, transparent, and accountable,
+        platforms struggle to meet these standards. Drawing from research with moderation
+        professionals, identifies structural obstacles to platform governance and proposes
+        solutions, exploring the values and contradictions shaping how platforms operate.
     - title: "Creating a Safer Web: Blacksky's Tool"
       artist: drkalyncoghill.blacksky.team
       time: 1:30 PM
       endTime: 2:00 PM
+      description: >-
+        Dr. KaLyn Coghill explores a moderation service that leverages Polis for community-driven
+        label creation decisions. The presentation covers volunteer moderator practices and Trust
+        and Safety team strategies, offering insights for communities and developers building their
+        own content governance systems on the protocol.
     - title: "Two Years of Skywatch: Community Moderation Lessons"
       artist: scoiattolo.mountainherder.xyz
       time: 2:00 PM
       endTime: 2:30 PM
+      description: >-
+        The speaker reflects on operating a large community labeler for two years, examining what
+        works and what doesn't. Key topics include lessons about the labeler's purpose and audience,
+        mistakes encountered, and alternative approaches. The presentation distinguishes community
+        labeling from traditional Trust & Safety work and explores potential future directions for
+        the labeler ecosystem.
     - title: "Coop: Open source Trust & Safety"
       artist: cassidyjames.com
       time: 2:30 PM
       endTime: 3:00 PM
+      description: >-
+        The presentation addresses how trust and safety solutions are typically closed, proprietary,
+        reinvented in isolation, and too often out of reach for smaller and decentralized platforms.
+        Cassidy James Blaede discusses Robust Open Online Safety Tools (ROOST), a nonprofit
+        initiative creating community-governed, open-source alternatives. The talk covers what trust
+        and safety encompasses, ROOST's approach, a demonstration of the Coop review tool, and
+        guidance on adopting and contributing to open source trust and safety infrastructure.
     - title: "ATProto and Osprey: Automating Moderation"
       artist: hailey.at
       time: 3:00 PM
       endTime: 3:30 PM
+      description: >-
+        Examines challenges of content moderation as networks scale, focusing on how anyone can
+        build upon ROOST's Osprey moderation engine and other tools to moderate their ATProto
+        applications, service providers, and more. Covers automating moderation strategies for
+        decentralized network participants.
     - title: "Lightning talks (Keywords vs Embeddings, Scaling Atmosphere, Skylimit web client, AT Transparency Logs, W Social, DID:PLC War Games)"
       artists: [raedisch.net, calabro.io, sarava.net, filippo.abyssdomain.expert, jan.wsocial.eu, goat.navy]
       time: 4:00 PM
