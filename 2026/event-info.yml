@@ -14,8 +14,6 @@ stages:
     color: 0x6B4FBB
   - name: "Great Hall South"
     color: 0x2E7D9B
-  - name: "Great Hall North"
-    color: 0x4A9B5F
   - name: "Room 2301"
     color: 0xC4622D
     category: discussions
