@@ -5,30 +5,39 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "How and Why News Orgs Should Build on ATProto"
+      artist: tylerjfisher.com
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "Bringing Self Sovereign Identities to Masses"
+      artist: cypherhippie.bsky.social
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Bluenotes: Community Notes for ATProto"
+      artist: jonathanwarden.com
       time: 11:00 AM
       endTime: 11:30 AM
     - title: "Community privacy in decentralized network"
+      artist: chipnick.com
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "Cooperate and Succeed!"
+      artist: gov.glados.computer
       time: 1:30 PM
       endTime: 2:00 PM
     - title: "Building decentralized AI on atproto"
+      artist: maxine.science
       time: 2:00 PM
       endTime: 2:30 PM
     - title: "furryli.st: Scaling Community and Belonging"
+      artist: baldemo.to
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "From Toilets to Moths: Future of Social Media"
+      artist: dame.is
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (BookHive, Abstracting AppView, GraphQL, Jacquard Magic Rust, Artist dreaming in Atmosphere)"
+      artists: [nickthesick.com, chadtmiller.com, timryan.org, nonbinary.computer, hilk.eu]
       time: 4:00 PM
       endTime: 5:00 PM
     - title: "Closing Remarks"
@@ -40,33 +49,43 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "A better NPM site is possible"
+      artist: zeu.dev
       time: 9:15 AM
       endTime: 10:00 AM
     - title: "tangled: The Lewis end"
+      artist: lewis.moe
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "One Year of Graze - lessons learned"
+      artist: devingaffney.com
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Waiting for the Future to Load"
+      artist: case.bsky.social
       time: 11:00 AM
       endTime: 11:30 AM
     - title: "Fireside Chat on Resonant Computing"
+      artists: [komorama.bsky.social, masnick.com]
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "Social Components"
+      artist: danabra.mov
       time: 1:30 PM
       endTime: 2:00 PM
     - title: "Designing for the social web"
+      artist: darrin.bsky.team
       time: 2:00 PM
       endTime: 2:30 PM
     - title: "Data Sovereignty for Games"
+      artist: trezy.codes
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "Protocol Governance & Hard Decentralization"
+      artist: dholms.at
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (E2EE DMs, Affordances, Bluesky product preview, Large-scale interoperability, Rewilding internet)"
+      artists: [rangakrishnan1.bsky.social, tynanpurdy.com, timburks.me, knotbin.com, offline.arushibandi.com]
       time: 4:00 PM
       endTime: 5:00 PM
     - title: "Closing Remarks"
@@ -78,30 +97,39 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "Making space for the Protoverse"
+      artist: meri.garden
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "How to have more non-English speaking users"
+      artist: vicwalker.dev.br
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Blousques: Translating Bluesky's UI"
+      artist: signez.fr
       time: 11:00 AM
       endTime: 11:30 AM
     - title: "Content Moderation Futures"
+      artist: linguangst.bsky.social
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "Creating a Safer Web: Blacksky's Tool"
+      artist: drkalyncoghill.blacksky.team
       time: 1:30 PM
       endTime: 2:00 PM
     - title: "Two Years of Skywatch: Community Moderation Lessons"
+      artist: scoiattolo.mountainherder.xyz
       time: 2:00 PM
       endTime: 2:30 PM
     - title: "Coop: Open source Trust & Safety"
+      artist: cassidyjames.com
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "ATProto and Osprey: Automating Moderation"
+      artist: hailey.at
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (Keywords vs Embeddings, Scaling Atmosphere, Skylimit web client, AT Transparency Logs, W Social, DID:PLC War Games)"
+      artists: [raedisch.net, calabro.io, sarava.net, filippo.abyssdomain.expert, jan.wsocial.eu, goat.navy]
       time: 4:00 PM
       endTime: 5:00 PM
     - title: "Closing Remarks"

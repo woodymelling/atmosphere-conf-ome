@@ -2,9 +2,11 @@ date: '2026-03-27'
 performances:
   Room 2301:
     - title: "Consuming the ATmosphere"
+      artist: alex.bsky.team
       time: 9:30 AM
       endTime: 12:30 PM
     - title: "Creating the ATmosphere"
+      artist: alex.bsky.team
       time: 1:30 PM
       endTime: 4:30 PM
 
@@ -13,9 +15,11 @@ performances:
       time: 9:30 AM
       endTime: 1:00 PM
     - title: "Meet & Greet the Team from New_ Public"
+      artist: newpublic.org
       time: 1:30 PM
       endTime: 2:30 PM
     - title: "at://advent, an atproto adventure"
+      artists: [bad-example.com, baileytownsend.dev]
       time: 4:30 PM
       endTime: 6:30 PM
 

@@ -5,35 +5,46 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "The Aggregation Era burned journalism institutions"
+      artist: bankonjustin.bsky.social
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "Building the Sovereign Media Stack"
+      artist: eclecticcapital.bsky.com
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Creators First: Video & Media Foundation"
+      artist: joebasser.com
       time: 11:00 AM
       endTime: 11:30 AM
     - title: "Publishing Without Platforms"
+      artist: jimray.bsky.team
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "Advocating for Digital Sovereignty"
+      artist: sandrabarthel.bsky.social
       time: 1:30 PM
       endTime: 2:00 PM
     - title: "Open social tech and geopolitical risk"
+      artist: ivansigal.bsky.social
       time: 2:00 PM
       endTime: 2:30 PM
     - title: "A Free Press needs Free Protocols"
+      artists: [joe.germuska.com, werd.io]
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "Journalism must create its own algorithms"
+      artist: aendra.com
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (Oaklog, Burning down data walls, Pollen)"
+      artists: [pop.pe, stephanjnoel.bsky.social, hypha.coop]
       time: 4:00 PM
     - title: "Building Public-Interest Infrastructure"
+      artist: sebastian.eurosky.social
       time: 4:30 PM
       endTime: 5:00 PM
     - title: "Hypercerts on ATProto: Collective Funding"
+      artist: holke.xyz
       time: 5:00 PM
       endTime: 5:30 PM
     - title: "Closing Remarks"
@@ -45,30 +56,39 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "Landslide"
+      artist: kissane.myatproto.social
       time: 9:15 AM
       endTime: 10:00 AM
     - title: "Groundings with my Siblings: Lessons Learned Building"
+      artist: rude1.blacksky.team
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "Who owns the group chat?"
+      artist: brittanyellich.com
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Who talks to whom? Coordination gaps"
+      artist: laurenshof.online
       time: 11:00 AM
       endTime: 11:30 AM
     - title: "Beyond Bluesky: Community infrastructure"
+      artist: bad-example.com
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "2026 Atmosphere Report"
+      artist: pfrazee.com
       time: 1:30 PM
       endTime: 2:30 PM
     - title: "From protocol to product: How Expo powers ATProto"
+      artists: [eliot.sh, pfrazee.com, iame.li, reedharmeyer.bsky.social]
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "Consent Before Cryptography"
+      artist: tessa.germnetwork.com
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (State of Multi-Protocol, Semble, What 350K users taught me, Phoenix Architecture, This Title Left Blank)"
+      artists: [quillmatiq.com, ronentk.me, buildwithtori.com, chadfowler.com, blaine.bsky.social]
       time: 4:00 PM
       endTime: 5:00 PM
     - title: "Closing Remarks"
@@ -80,27 +100,35 @@ performances:
       time: 9:00 AM
       endTime: 9:15 AM
     - title: "Feature/Product/Business Framework"
+      artist: mosh.bsky.social
       time: 10:00 AM
       endTime: 10:30 AM
     - title: "Did Lexicon solve enterprise data problem?"
+      artist: emily.gorcen.ski
       time: 10:30 AM
       endTime: 11:00 AM
     - title: "Understanding Custom Feeds on Bluesky"
+      artist: leijiew.bsky.social
       time: 11:30 AM
       endTime: 12:00 PM
     - title: "Building Cirrus: single-user, serverless PDS"
+      artist: mk.gg
       time: 1:30 PM
       endTime: 2:00 PM
     - title: "Rethinking the Client: User Choice & Growth"
+      artist: tylerjfisher.com
       time: 2:00 PM
       endTime: 2:30 PM
     - title: "Building Future of AI on ATProto"
+      artist: cameron.stream
       time: 2:30 PM
       endTime: 3:00 PM
     - title: "Account logic using Trusted Execution"
+      artist: kobi.bsky.social
       time: 3:00 PM
       endTime: 3:30 PM
     - title: "Lightning talks (Stop Hallucinating Protocol, How decentralized is Bluesky, Why Gander Social, Matadata, Paul Syverson talk, Future of Open Source, Feeds Are The New Websites, Streamplace VODs)"
+      artists: [immber.bsky.social, billwpierce.co, jennie-gander.bsky.social, robin.berjon.com, psyverson.bsky.social, jeremie.com, mmccue.bsky.social, iame.li]
       time: 4:00 PM
       endTime: 5:00 PM
     - title: "Closing Remarks"

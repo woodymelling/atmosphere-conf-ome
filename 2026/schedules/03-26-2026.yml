@@ -2,12 +2,15 @@ date: '2026-03-26'
 performances:
   Room 2301:
     - title: "OAuth Masterclass"
+      artist: ngerakines.me
       time: 9:30 AM
       endTime: 12:30 PM
     - title: "Abstracting the Appview Workshop"
+      artist: chadtmiller.com
       time: 2:00 PM
       endTime: 4:00 PM
     - title: "Verified Human Users, game changer in the atmosphere"
+      artist: jan.wsocial.eu
       time: 4:00 PM
       endTime: 5:00 PM
 
@@ -21,12 +24,15 @@ performances:
 
   Performance Theatre:
     - title: "Hospicing social media: Personal archival practices"
+      artist: dcwalker.ca
       time: 10:30 AM
       endTime: 12:30 PM
     - title: "What futures can we build together?"
+      artists: [offline.arushibandi.com, ivansigal.bsky.social, christian.bsky.social]
       time: 2:00 PM
       endTime: 4:00 PM
     - title: "Dive into user research with ATProto builders/users"
+      artists: [tessa.germnetwork.com, tynanpurdy.com]
       time: 4:30 PM
       endTime: 6:30 PM
 
