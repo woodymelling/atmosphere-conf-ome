@@ -35,5 +35,5 @@ stages:
 
 categoryConfigs:
   default:
-    - showStageNameLabels: true
+    showStageNameLabels: true
 
