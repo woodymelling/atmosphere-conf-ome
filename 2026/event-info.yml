@@ -12,14 +12,28 @@ appleMapsLink: "https://maps.apple.com/?address=6133+University+Blvd,+Vancouver,
 stages:
   - name: "Performance Theatre"
     color: 0x6B4FBB
+    systemIconName: "theatermasks"
+
   - name: "Great Hall South"
     color: 0x2E7D9B
+    systemIconName: "building.columns"
+
   - name: "Room 2301"
     color: 0xC4622D
+    shortcode: "2301"
     category: discussions
+
   - name: "Room 2311"
     color: 0xB5A020
+    shortcode: "2311"
     category: discussions
+
   - name: "Bukhman Lounge"
     color: 0x8B6914
     category: discussions
+
+
+categoryConfigs:
+  default:
+    - showStageNameLabels: true
+
