@@ -20,12 +20,12 @@ stages:
 
   - name: "Room 2301"
     color: 0xC4622D
-    shortcode: "2301"
+    iconShortCode: "2301"
     category: discussions
 
   - name: "Room 2311"
     color: 0xB5A020
-    shortcode: "2311"
+    iconShortCode: "2311"
     category: discussions
 
   - name: "Bukhman Lounge"
